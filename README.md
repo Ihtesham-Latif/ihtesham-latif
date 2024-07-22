@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="150" src="https://i.ibb.co/3C02HHh/unnamed.jpg"  />
 
 ###
 
@@ -67,10 +67,5 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=ihteshamlatif54&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ihtesham-Latif/count.svg?"  />
-</div>
 
-###
