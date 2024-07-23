@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Ihtesham, and I'm a web developer from  Lahore. <br>I specialize in frontend development with expertise in HTML, CSS, JavaScript, Tailwind CSS, ReactJS. I also have experience with animation libraries like GSAP and Framer Motion, and I utilize Material UI React components.</h3>
+<h3 align="left">Hi 👋! My name is Ihtesham, and I'm a web developer from Lahore. I specialize in frontend development with expertise in HTML, CSS, JavaScript, Tailwind CSS, and ReactJS. Additionally, I have extensive experience with animation libraries such as GSAP and Framer Motion, and I frequently leverage Material-UI React components to create dynamic and responsive user interfaces.</h3>
 
 ###
 
